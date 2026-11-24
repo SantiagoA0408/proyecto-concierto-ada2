@@ -1,0 +1,6 @@
+20
+4
+Candelaria 10 10
+Florida 10 11
+Pradera 11 10
+El Cerrito 11 11

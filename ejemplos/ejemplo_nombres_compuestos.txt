@@ -1,0 +1,6 @@
+10
+4
+La Union 1 9
+Cali 3 9
+Tulua 2 7
+San Pedro 1 4

@@ -1,0 +1,6 @@
+15
+4
+Esquina Suroccidente 0 0
+Esquina Noroccidente 0 15
+Esquina Suroriente 15 0
+Esquina Nororiente 15 15
